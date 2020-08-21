@@ -1,0 +1,4 @@
+- name: README the RSS
+  uses: kohrongying/readme-the-rss@v1
+  feed_url: "https://www.brewinstallbuzzwords.com/index.xml"
+  
