@@ -1,4 +1,17 @@
-- name: README the RSS
-  uses: kohrongying/readme-the-rss@v1
-  feed_url: "https://www.brewinstallbuzzwords.com/index.xml"
+on: [push]
+
+jobs:
+  my-job:
+    name: My Job
+    runs-on: ubuntu-latest
+    steps:
+    - name: README the RSS
+      env:
+        uses: kohrongying/readme-the-rss@v1
+        feed_url: "https://www.brewinstallbuzzwords.com/index.xml"
+
+
+
+
+
   
