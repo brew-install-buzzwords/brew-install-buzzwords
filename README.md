@@ -10,7 +10,7 @@ My name is Adam Davis and I’m a professional software engineer. I currently wo
 * Writing posts for [my blog](https://www.brewinstallbuzzwords.com) and [dev.to](https://dev.to/brewinstallbuzzwords)
 * Filling in as many squares on my github contributions chart as possible
 
-## My Blog
+## My latest blog posts:
 <!-- BLOGPOSTS:START -->
 - [Projects](https://www.brewinstallbuzzwords.com/projects/)
 - [Project: Meme Type](https://www.brewinstallbuzzwords.com/posts/meme-type/)
