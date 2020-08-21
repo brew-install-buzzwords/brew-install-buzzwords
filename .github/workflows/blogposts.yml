@@ -11,7 +11,7 @@ jobs:
         uses: kohrongying/readme-the-rss@master
         with:
           feed_url: https://www.brewinstallbuzzwords.com/index.xml
-          count: 6 # default 5
+          count: 3 # default 5
       - name: Commit file changes
         run: |
             git config --global user.name 'YOUR_USERNAME'
