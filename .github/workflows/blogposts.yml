@@ -6,8 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: README the RSS
-      env:
-        uses: kohrongying/readme-the-rss@v1
+      uses: kohrongying/readme-the-rss@v1
+      with:
         feed_url: "https://www.brewinstallbuzzwords.com/index.xml"
 
 
