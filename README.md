@@ -12,9 +12,9 @@ My name is Adam Davis and I’m a professional software engineer. I currently wo
 
 ## My latest blog posts:
 <!-- BLOGPOSTS:START -->
+- [4 Hugo Beginner Mistakes](https://www.brewinstallbuzzwords.com/posts/hugo-beginner-mistakes/)
 - [Projects](https://www.brewinstallbuzzwords.com/projects/)
 - [Project: Meme Type](https://www.brewinstallbuzzwords.com/posts/meme-type/)
-- [How does this site work?](https://www.brewinstallbuzzwords.com/posts/how-does-this-site-work/)
 <!-- BLOGPOSTS:END -->
 
 ## Contact
