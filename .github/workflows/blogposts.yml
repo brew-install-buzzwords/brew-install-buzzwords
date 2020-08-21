@@ -3,6 +3,14 @@ on:
   schedule:
     # Runs every day at 3pm UTC (11pm SG)
     - cron: '0 15 * * *'
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'     
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Test scenario tags'
 
 jobs:
   pull_blog_rss:
