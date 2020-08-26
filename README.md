@@ -5,7 +5,7 @@
 My name is Adam Davis and I’m a professional software engineer. I currently work at Cisco Systems doing full-stack web development, but this account is for my personal projects. To read more about these projects, [check out my blog](https://www.brewinstallbuzzwords.com).
 
 ## What I'm working on:
-* Studying for AWS Associate Developer Certification
+* Studying for the AWS Associate Developer Certification
 * Making various chat and twitter bots using AWS Lambda
 * Writing posts for [my blog](https://www.brewinstallbuzzwords.com) and [dev.to](https://dev.to/brewinstallbuzzwords)
 * Filling in as many squares on my github contributions chart as possible
@@ -16,6 +16,10 @@ My name is Adam Davis and I’m a professional software engineer. I currently wo
 - [Projects](https://www.brewinstallbuzzwords.com/projects/)
 - [Project: Meme Type](https://www.brewinstallbuzzwords.com/posts/meme-type/)
 <!-- BLOGPOSTS:END -->
+
+## Newsletter
+
+If you'd like to receive monthly updates on the projects I'm working on and the blog posts I'm writing, then [subscribe the my newsletter](https://mailchi.mp/89dc077154c7/brewinstallbuzzwords).
 
 ## Contact
 
