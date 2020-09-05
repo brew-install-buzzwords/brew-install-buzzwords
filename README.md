@@ -12,9 +12,9 @@ My name is Adam Davis and I’m a professional software engineer. I currently wo
 
 ## My latest blog posts:
 <!-- BLOGPOSTS:START -->
+- [Read this before publishing to npm: 5 tips for your first package](https://www.brewinstallbuzzwords.com/posts/tips-for-first-npm-package/)
 - [4 Hugo Beginner Mistakes](https://www.brewinstallbuzzwords.com/posts/hugo-beginner-mistakes/)
 - [Projects](https://www.brewinstallbuzzwords.com/projects/)
-- [Project: Meme Type](https://www.brewinstallbuzzwords.com/posts/meme-type/)
 <!-- BLOGPOSTS:END -->
 
 ## Newsletter
