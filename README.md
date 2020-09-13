@@ -17,6 +17,8 @@ My name is Adam Davis and I’m a professional software engineer. I currently wo
 - [Projects](https://www.brewinstallbuzzwords.com/projects/)
 <!-- BLOGPOSTS:END -->
 
+*The above list of blog posts updates daily using my RSS feed. See the Github Actions workflow [here](https://github.com/brew-install-buzzwords/brew-install-buzzwords/blob/master/.github/workflows/blogposts.yml).*
+
 ## Newsletter
 
 If you'd like to receive monthly updates on the projects I'm working on and the blog posts I'm writing, then [subscribe the my newsletter](https://mailchi.mp/89dc077154c7/brewinstallbuzzwords).
