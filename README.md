@@ -9,6 +9,7 @@ My name is Adam Davis and I’m a professional software engineer. I currently wo
 * Making various chat and twitter bots using AWS Lambda
 * Writing posts for [my blog](https://www.brewinstallbuzzwords.com) and [dev.to](https://dev.to/brewinstallbuzzwords)
 * Filling in as many squares on my github contributions chart as possible
+* Taking a [design class on Skillshare](https://skl.sh/2H5mOh5) to improve the quality of my blog's header images
 
 ## My latest blog posts:
 <!-- BLOGPOSTS:START -->
