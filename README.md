@@ -20,6 +20,10 @@ My name is Adam Davis and I’m a professional software engineer. I currently wo
 
 *The above list of blog posts updates daily using my RSS feed. See the Github Actions workflow [here](https://github.com/brew-install-buzzwords/brew-install-buzzwords/blob/master/.github/workflows/blogposts.yml).*
 
+## My guest posts for other blogs:
+
+- [CSS-TRICKS: Changing Emoji Skin Tones Programmatically](https://css-tricks.com/changing-emoji-skin-tones-programmatically/)
+
 ## Newsletter
 
 If you'd like to receive monthly updates on the projects I'm working on and the blog posts I'm writing, then [subscribe the my newsletter](https://mailchi.mp/89dc077154c7/brewinstallbuzzwords).
