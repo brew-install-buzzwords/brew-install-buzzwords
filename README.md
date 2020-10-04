@@ -13,9 +13,9 @@ My name is Adam Davis and I’m a professional software engineer. I currently wo
 
 ## My latest blog posts:
 <!-- BLOGPOSTS:START -->
+- [Changing Emoji Skin Tones Programmatically](https://www.brewinstallbuzzwords.com/posts/emoji-skin-tone/)
 - [5 tips for publishing your first npm package](https://www.brewinstallbuzzwords.com/posts/tips-for-first-npm-package/)
 - [4 Hugo Beginner Mistakes](https://www.brewinstallbuzzwords.com/posts/hugo-beginner-mistakes/)
-- [Projects](https://www.brewinstallbuzzwords.com/projects/)
 <!-- BLOGPOSTS:END -->
 
 *The above list of blog posts updates daily using my RSS feed. See the Github Actions workflow [here](https://github.com/brew-install-buzzwords/brew-install-buzzwords/blob/master/.github/workflows/blogposts.yml).*
