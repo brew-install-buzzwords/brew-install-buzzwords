@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-My name is Adam Davis and I’m a professional software engineer. I currently work at Cisco Systems doing full-stack web development, but this account is for my personal projects. To read more about these projects, [check out my blog](https://www.brewinstallbuzzwords.com).
+My name is Adam Davis and I’m a professional software engineer. The code I publish on this account it primarily for personal projects. To read more about these projects, [check out my blog](https://www.brewinstallbuzzwords.com).
 
 ## What I'm working on:
 * Studying for the AWS Associate Developer Certification
