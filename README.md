@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-My name is Adam Davis and I’m a professional software engineer. The code I publish on this account is primarily for personal projects. To read more about these projects, [check out my blog](https://www.brewinstallbuzzwords.com).
+My name is Adam Davis and I’m a professional software engineer. The code I publish on this account is primarily for personal projects. To read more about these projects, [check out the projects page on my blog](https://www.brewinstallbuzzwords.com/projects/).
 
 ## What I'm working on:
 * Making various chat and twitter bots using AWS Lambda
