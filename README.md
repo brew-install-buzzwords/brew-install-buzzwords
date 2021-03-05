@@ -2,14 +2,14 @@
 
 # Hi there 👋
 
-My name is Adam Davis and I’m a professional software engineer. The code I publish on this account it primarily for personal projects. To read more about these projects, [check out my blog](https://www.brewinstallbuzzwords.com).
+My name is Adam Davis and I’m a professional software engineer. The code I publish on this account is primarily for personal projects. To read more about these projects, [check out my blog](https://www.brewinstallbuzzwords.com).
 
 ## What I'm working on:
-* Studying for the AWS Associate Developer Certification
 * Making various chat and twitter bots using AWS Lambda
 * Writing posts for [my blog](https://www.brewinstallbuzzwords.com) and [dev.to](https://dev.to/brewinstallbuzzwords)
 * Filling in as many squares on my github contributions chart as possible
-* Learning how to make 2D Unity games on [youtube](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6TFcFuzI2bB7TMNIIBpKMQ)
+* Learning elixir by practicing on [exercism](https://exercism.io/) and reading [Phoenix in Action](https://www.manning.com/books/phoenix-in-action)
+* Adding some new features to my [bread ratio calculator web app](https://breadratiocalculator.com)
 
 ## My latest blog posts:
 <!-- BLOGPOSTS:START -->
