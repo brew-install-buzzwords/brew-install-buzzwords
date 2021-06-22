@@ -5,10 +5,8 @@
 My name is Adam Davis and I’m a professional software engineer. The code I publish on this account is primarily for personal projects. To read more about these projects, [check out the projects page on my blog](https://www.brewinstallbuzzwords.com/projects/).
 
 ## What I'm working on:
-* Making various chat and twitter bots using AWS Lambda
 * Writing posts for [my blog](https://www.brewinstallbuzzwords.com) and [dev.to](https://dev.to/brewinstallbuzzwords)
-* Filling in as many squares on my github contributions chart as possible
-* Learning elixir by practicing on [exercism](https://exercism.io/) and reading [Phoenix in Action](https://www.manning.com/books/phoenix-in-action)
+* Writing [a tutorial series for the elixir programming language](https://www.brewinstallbuzzwords.com/posts/elixir-hands-on-tutorial-pt-00/)
 * Adding some new features to my [bread ratio calculator web app](https://breadratiocalculator.com)
 
 ## My latest blog posts:
