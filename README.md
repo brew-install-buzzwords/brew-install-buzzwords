@@ -11,9 +11,9 @@ My name is Adam Davis and I’m a professional software engineer. The code I pub
 
 ## My latest blog posts:
 <!-- BLOGPOSTS:START -->
+- [Your first Elixir Project (Part 1)](https://www.brewinstallbuzzwords.com/posts/elixir-hands-on-tutorial-pt-01/)
+- [Your first Elixir Project (Part 0)](https://www.brewinstallbuzzwords.com/posts/elixir-hands-on-tutorial-pt-00/)
 - [Learn elixir with me!](https://www.brewinstallbuzzwords.com/posts/learn-elixir-with-me/)
-- [Changing Emoji Skin Tones Programmatically](https://www.brewinstallbuzzwords.com/posts/emoji-skin-tone/)
-- [5 tips for publishing your first npm package](https://www.brewinstallbuzzwords.com/posts/tips-for-first-npm-package/)
 <!-- BLOGPOSTS:END -->
 
 *The above list of blog posts updates daily using my RSS feed. See the Github Actions workflow [here](https://github.com/brew-install-buzzwords/brew-install-buzzwords/blob/master/.github/workflows/blogposts.yml).*
