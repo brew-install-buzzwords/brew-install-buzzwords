@@ -11,9 +11,9 @@ My name is Adam Davis and I’m a professional software engineer. The code I pub
 
 ## My latest blog posts:
 <!-- BLOGPOSTS:START -->
+- [Reflections on a Year of Blogging](https://www.brewinstallbuzzwords.com/posts/reflections-on-a-year-of-blogging/)
 - [Does Elixir Have for Loops?](https://www.brewinstallbuzzwords.com/posts/does-elixir-have-for-loops/)
 - [Project Tours: Bread Ratio Calculator](https://www.brewinstallbuzzwords.com/posts/bread-ratio-calculator/)
-- [Your first Elixir Project (Part 1)](https://www.brewinstallbuzzwords.com/posts/elixir-hands-on-tutorial-pt-01/)
 <!-- BLOGPOSTS:END -->
 
 *The above list of blog posts updates daily using my RSS feed. See the Github Actions workflow [here](https://github.com/brew-install-buzzwords/brew-install-buzzwords/blob/master/.github/workflows/blogposts.yml).*
