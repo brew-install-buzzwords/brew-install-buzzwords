@@ -14,6 +14,8 @@ My name is Adam Davis and I’m a professional software engineer. The code I pub
 - [Your first Elixir Project (Part 2)](https://www.brewinstallbuzzwords.com/posts/elixir-hands-on-tutorial-pt-02/)
 - [The Use-Case-Driven Guide to Essential JavaScript Array Methods](https://www.brewinstallbuzzwords.com/posts/use-case-driven-array-methods/)
 - [Avoiding phantom content on your S3 static site](https://www.brewinstallbuzzwords.com/posts/s3-phantom-content/)
+- [The weird quirk of JavaScript arrays (that you should never use)](https://www.brewinstallbuzzwords.com/posts/js-arrays-are-objects/)
+- [Reflections on a Year of Blogging](https://www.brewinstallbuzzwords.com/posts/reflections-on-a-year-of-blogging/)
 <!-- BLOGPOSTS:END -->
 
 *The above list of blog posts updates daily using my RSS feed. See the Github Actions workflow [here](https://github.com/brew-install-buzzwords/brew-install-buzzwords/blob/master/.github/workflows/blogposts.yml).*
