@@ -11,11 +11,11 @@ My name is Adam Davis and I’m a professional software engineer. The code I pub
 
 ## My latest blog posts:
 <!-- BLOGPOSTS:START -->
+- [How I built an NYT Spelling Bee solver with Elixir](https://www.brewinstallbuzzwords.com/posts/elixir-spelling-bee-solver/)
 - [How to import a local module dependency in Elixir](https://www.brewinstallbuzzwords.com/posts/elixir-import-local-dependency/)
 - [I published my first Elixir package to hex!](https://www.brewinstallbuzzwords.com/posts/my-first-hex-package/)
 - [Reading the Elixir source code to learn how if blocks work](https://www.brewinstallbuzzwords.com/posts/elixir-if-block-source-code/)
 - [Your first Elixir Project (Part 2)](https://www.brewinstallbuzzwords.com/posts/elixir-hands-on-tutorial-pt-02/)
-- [The Use-Case-Driven Guide to Essential JavaScript Array Methods](https://www.brewinstallbuzzwords.com/posts/use-case-driven-array-methods/)
 <!-- BLOGPOSTS:END -->
 
 *The above list of blog posts updates daily using my RSS feed. See the Github Actions workflow [here](https://github.com/brew-install-buzzwords/brew-install-buzzwords/blob/master/.github/workflows/blogposts.yml).*
